@@ -28,7 +28,7 @@
       "no-var": "error",
       "prefer-template": "warn",
       "radix": "warn",
-      "no-console": "error",
+      "no-console": "warn",
       "import/first": "error"
     }
   },
